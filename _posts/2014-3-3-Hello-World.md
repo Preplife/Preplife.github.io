@@ -1,5 +1,3 @@
----
-layout:post
 Our Purpose
 ---
 
